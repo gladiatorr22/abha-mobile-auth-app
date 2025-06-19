@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "abhaapp",
+    "slug": "abhaapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "extra": {
+      "ABHA_CREATION_API_URL": "http://MAINSERVER:7176/api/ABHACreationUsingAadhar",
+      "AUTH_API_URL": "http://MAINSERVER:7176/api/Authenticate"
+    },
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
