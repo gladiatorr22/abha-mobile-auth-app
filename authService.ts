@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseURL = "http://MAINSERVER:7176/api/Authenticate"; // Replace with your actual base URL
+const baseURL = "your api key"; // Replace with your actual base URL
 
 const authService = {
   getAccessToken: async () => {

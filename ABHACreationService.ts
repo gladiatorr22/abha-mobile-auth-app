@@ -2,7 +2,7 @@ import axios from "axios";
 import authService from "./authService";
 
 // Directly set the base URL
-const BASE_URL = "http://MAINSERVER:7176/api/ABHACreationUsingAadhar"; // Replace with the actual base URL
+const BASE_URL = "your api key"; // Replace with the actual base URL
 console.log("Base URL:", BASE_URL);
 
 // Helper function to set authorization headers

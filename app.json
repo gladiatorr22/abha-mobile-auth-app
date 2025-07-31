@@ -8,8 +8,8 @@
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "extra": {
-      "ABHA_CREATION_API_URL": "http://MAINSERVER:7176/api/ABHACreationUsingAadhar",
-      "AUTH_API_URL": "http://MAINSERVER:7176/api/Authenticate"
+      "ABHA_CREATION_API_URL": "your api",
+      "AUTH_API_URL": "your api"
     },
     "splash": {
       "image": "./assets/splash-icon.png",
